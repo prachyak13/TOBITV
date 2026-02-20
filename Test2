@@ -1,3 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXTINF:-1,My Channel
 http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/104834.m3u8
