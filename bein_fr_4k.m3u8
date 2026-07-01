@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 
 #EXT-X-STREAM-INF:BANDWIDTH=2200000,NAME="bein_fr_4k"
-http://s.rocketdns.info:8080/monstercable/Dq6jjknxCr/3146
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.m3u8
 #http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/12900.m3u8
 #http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/35522.m3u8
